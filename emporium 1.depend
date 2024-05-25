@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1704750376 source:e:\programming\emporium 1\main.cpp
+	<iostream>
+	<conio.h>
+	<string_view>
+	<string>
+	<limits>
+	<array>
+	"Random.h"
+
+1704719509 e:\programming\emporium 1\random.h
+	<chrono>
+	<random>
+
